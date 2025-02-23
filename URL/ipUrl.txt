@@ -4,3 +4,5 @@ https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv
 https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipUS.txt@proxyip.amclubs.camdvr.org
 https://raw.githubusercontent.com/weekoo2025/Cfipya/refs/heads/main/MYIP/Kryxip.txt
 https://raw.githubusercontent.com/weekoo2025/Cfipya/refs/heads/main/URL/QT/cfusip.txt
+https://ipdb.api.030101.xyz/?type=bestproxy&country=true
+
