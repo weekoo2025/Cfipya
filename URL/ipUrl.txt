@@ -2,7 +2,7 @@ https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipJP.txt@141.147.163
 https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipHK.txt@proxyip.amclubs.kozow.com
 https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv
 https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipUS.txt@proxyip.amclubs.camdvr.org
+https://raw.githubusercontent.com/weekoo2025/Cfipya/refs/heads/main/MYIP/AUrip.txt&20.60.32.36
 https://raw.githubusercontent.com/weekoo2025/Cfipya/refs/heads/main/MYIP/Kryxip.txt
 https://raw.githubusercontent.com/weekoo2025/Cfipya/refs/heads/main/URL/QT/cfusip.txt
-https://ipdb.api.030101.xyz/?type=bestproxy&country=true
 
